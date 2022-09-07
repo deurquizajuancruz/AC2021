@@ -1,1 +1,0 @@
-C:\Users\juanc\OneDrive\Documentos\Facultad\AC\WINMIPS64\Sim-WinMips64\Practica6Punto2.s
